@@ -22,4 +22,5 @@ Workshop Agroteknologi – Sistem Monitoring Suhu, Kelembaban Udara, dan Kelemba
 | Relay 3 (Pump) | GPIO 26            |
 | LCD I2C        | SDA (21), SCL (22) |
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/2af4c6df-d034-4108-9bf2-726f9c9f2e3f" />
 
