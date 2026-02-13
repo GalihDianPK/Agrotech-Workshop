@@ -14,7 +14,7 @@ Workshop Agroteknologi – Sistem Monitoring Suhu, Kelembaban Udara, dan Kelemba
 | 6  | Pompa Air            | 1      |
 | 7  | Kipas (opsional)     | 1      |
 
-| Komponen       | Pin ESP32          |
+| Komponen       | Pin Wemos D1 R32   |
 | -------------- | ------------------ |
 | DHT21          | GPIO 4             |
 | Soil Sensor    | GPIO 34            |
