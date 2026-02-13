@@ -6,7 +6,7 @@ Workshop Agroteknologi – Sistem Monitoring Suhu, Kelembaban Udara, dan Kelemba
 
 | No | Komponen             | Jumlah |
 | -- | -------------------- | ------ |
-| 1  | ESP32                | 1      |
+| 1  | Wemos D1 R32         | 1      |
 | 2  | Sensor DHT21         | 1      |
 | 3  | Soil Moisture Sensor | 1      |
 | 4  | LCD 20x4 I2C         | 1      |
