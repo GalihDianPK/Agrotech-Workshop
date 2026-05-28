@@ -2,7 +2,7 @@
 
 🌱 Smart Greenhouse Monitoring System (Non-IoT)
 
-Workshop Agroteknologi – Sistem Monitoring Suhu, Kelembaban Udara, dan Kelembaban Tanah menggunakan ESP32
+Workshop Agroteknologi – Sistem Monitoring Suhu, Kelembaban Udara, dan Kelembaban Tanah menggunakan Wemos D1
 
 | No | Komponen             | Jumlah |      
 | -- | -------------------- | ------ |
